@@ -1,0 +1,1 @@
+{ "name": "StackOverflow", "url": "https://stackoverflow.com/users/{username}", "exists_status": 200, "confidence_weight": 0.80 }

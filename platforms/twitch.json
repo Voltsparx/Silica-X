@@ -1,0 +1,1 @@
+{ "name": "Twitch", "url": "https://www.twitch.tv/{username}", "exists_status": 200, "confidence_weight": 0.85 }
